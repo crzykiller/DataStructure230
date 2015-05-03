@@ -1,0 +1,17 @@
+Class HashTableLinearProbing
+{
+  public static void main(String[] args)
+  {
+  
+  }
+  
+  public HashTableLinearProbing()
+  {
+  
+  System.out.println("Test");
+  }
+
+
+
+
+}
